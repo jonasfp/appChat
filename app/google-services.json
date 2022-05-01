@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833506465169",
+    "project_id": "friendlychat-effbe",
+    "storage_bucket": "friendlychat-effbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833506465169:android:191078f3a604b84132f630",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833506465169-lakgrc2s7thjn3t0k7vhhjdhg7runk1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "e89d899a86132c3213124f8ebdb9838ed3cc8538"
+          }
+        },
+        {
+          "client_id": "833506465169-ims5u2h57tibkhkba04ok3uv7aktdrgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHETGi93k_RWQeGIR1vBjGJuoGwon2ykI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833506465169-ims5u2h57tibkhkba04ok3uv7aktdrgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
